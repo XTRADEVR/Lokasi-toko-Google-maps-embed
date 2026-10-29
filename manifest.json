@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "NusaRoast Store Locator PWA",
+  "short_name": "NusaRoast",
+  "description": "Aplikasi Progressive Web App (PWA) direktori lokasi gerai kopi dan peta interaktif Google Maps dengan filter jarak GPS, petunjuk arah, dan dukungan offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
